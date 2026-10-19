@@ -6,15 +6,12 @@
 - 🤝 Open to collaborating on open-source projects and interesting ideas.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
-Here are some of the technologies and languages I work with or am currently learning:
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | HTML, CSS, JavaScript, Python |
-| **Frameworks** | React, Node.js |
-| **Tools** | Git, GitHub, VS Code |
+![React](https://shields.io) ![NodeJS](https://shields.io)
+
+![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
 
 ---
 
