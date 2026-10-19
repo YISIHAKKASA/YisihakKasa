@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Yisihak Kasa 👋
 
-<!--
-**YISIHAKKASA/YisihakKasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💻 I am a passionate developer working on building my skills and creating impactful projects.
+- 🎓 Learning new technologies everyday to grow as a software engineer.
+- 🤝 Open to collaborating on open-source projects and interesting ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+Here are some of the technologies and languages I work with or am currently learning:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | HTML, CSS, JavaScript, Python |
+| **Frameworks** | React, Node.js |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+### 📫 Connect with Me
+- 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+- 📧 **Email:** [yisihakkasa45@gmail.com]
+
+---
+
+📈 *“The best way to predict the future is to invent it.”*
